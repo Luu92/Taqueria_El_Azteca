@@ -1,0 +1,20 @@
+
+.tituto-home, h1{
+    font-size: 30px;
+    color: #fdb913;
+    padding-top: 5px;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;;
+    background-color: #231f20;
+    text-align: center;
+    width: auto;
+    height: 60px;
+}
+
+.texto-historia{
+    background-color: rgb(252, 243, 207);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    margin-top: 30px;
+    text-align: justify;
+}
