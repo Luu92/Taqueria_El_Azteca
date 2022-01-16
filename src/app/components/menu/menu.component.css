@@ -1,0 +1,32 @@
+/* Inicio: Card Tacos */
+.card{
+    border-radius: 10px;
+    /* margin-right: 5px; */
+}
+.card-header{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Redressed', cursive;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px;
+}
+
+.card-text{
+    font-size: 20px;
+    text-align: right;
+    font-family: 'Redressed', cursive
+}
+
+.card-precio{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Redressed', cursive;
+    color: white;
+    font-weight: bold;
+}
+.card-footer{
+    border-top-right-radius: 20px;
+    border-top-left-radius:20px;
+}
+/* Fin: Card Tacos */
